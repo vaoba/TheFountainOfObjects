@@ -12,3 +12,4 @@ C:\Work\Programming\Csharp_Players_Guide_Course\TheFountainOfObjects\TheFountain
 C:\Work\Programming\Csharp_Players_Guide_Course\TheFountainOfObjects\TheFountainOfObjects\obj\Debug\net8.0\TheFountainOfObjects.pdb
 C:\Work\Programming\Csharp_Players_Guide_Course\TheFountainOfObjects\TheFountainOfObjects\obj\Debug\net8.0\TheFountainOfObjects.genruntimeconfig.cache
 C:\Work\Programming\Csharp_Players_Guide_Course\TheFountainOfObjects\TheFountainOfObjects\obj\Debug\net8.0\ref\TheFountainOfObjects.dll
+C:\Work\Programming\Csharp_Players_Guide_Course\TheFountainOfObjects\TheFountainOfObjects\obj\Debug\net8.0\TheFountainOfObjects.sourcelink.json
